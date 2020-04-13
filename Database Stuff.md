@@ -1,3 +1,4 @@
+Note: We do not have permission to create/update/delete in production database (must go through Dewayne D/Mike E)
 
 ## Uncategorized
 - SCAQMD monitors 88 & 103 have metadata in database, but no associated measurement data
@@ -8,7 +9,6 @@
 
 
 ## Views
-Note: We do not have permission to create/update/delete views on production (must go through Dewayne D/Mike E)
 - Update view used to create the download data so that external monitorIDs are published (right now internal monitorIDs are published in downloadable files)
 
 
