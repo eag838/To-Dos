@@ -8,7 +8,7 @@
 
 
 ## Views
-Note: we do not have permission to create/update/delete views on production (must go through Dewayne D/Mike E)
+Note: We do not have permission to create/update/delete views on production (must go through Dewayne D/Mike E)
 - Update view used to create the download data so that external monitorIDs are published (right now internal monitorIDs are published in downloadable files)
 
 
