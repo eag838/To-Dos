@@ -13,9 +13,11 @@ Note: We do not have permission to create/update/delete in production database (
 
 
 ## Database Table Modifications
--
+
 
 ## New Database Tables
--
+- Adjustment Technique 
+  - Internal Code/ID, External Code, Equation, Description, Public Description (Equation could be JSON or could be stored within the Description field)
+
 
 
