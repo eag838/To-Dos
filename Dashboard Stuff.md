@@ -5,6 +5,8 @@
   - Timeseries Graphs
   - Wind & Pollution Roses
   - Data Stream Monitoring (like AQMIS's)
+- Data Quality Tools
+  - ?
 
 
 ## CARB Dashboard Items for Full Solution
@@ -17,4 +19,8 @@
 - Items Pending CARB Review/Approval
   - Data Provider Setup
   - Metadata
-  
+
+
+## DP Dashboard Items for Full Solution
+- Data Quality Tools
+  - "Check Engine Light" - LVL 3 QA/QC stream health assessment / indicator
