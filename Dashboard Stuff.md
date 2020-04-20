@@ -25,3 +25,4 @@
 ## DP Dashboard Items for Full Solution
 - Data Quality Tools
   - "Check Engine Light" - LVL 3 QA/QC stream health assessment / indicator
+- Metadata re-validation - revalidate metadata (e.g., site lat/longs) every 3 months?
