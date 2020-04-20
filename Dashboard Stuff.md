@@ -6,6 +6,7 @@
   - Wind & Pollution Roses
   - Data Stream Monitoring (like AQMIS's)
 - Data Quality Tools
+  - Visualization of quality check outputs (like graphs?)
   - ?
 
 
