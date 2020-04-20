@@ -1,6 +1,6 @@
 # Ideas Dump for Various Dashboards
 
-## Dashboard Items for Short Term
+## Taylor's Dashboard
 - Data Analysis Tools
   - Timeseries Graphs
   - Wind & Pollution Roses
