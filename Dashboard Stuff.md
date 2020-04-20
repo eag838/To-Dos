@@ -12,7 +12,7 @@
 
 ## CARB Dashboard Items for Full Solution
 - Data Stream Monitoring
-- Data Processing Monitoring (?)
+- Data Processing Monitoring e.g., processing log summaries, others(?) 
 - Activity Feed
   - Data provider started sending data via a new method (e.g., "SC added API submission channel")
   - Data provider modified metadata & whether or not it needs approval by CARB (e.g., "SJV added 6 parameters, pending approval")
