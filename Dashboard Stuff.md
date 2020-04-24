@@ -1,4 +1,10 @@
 # Ideas Dump for Various Dashboards
+## Uncategorized
+- Failed data collection
+- Exceptions in moving data from staging area to data table
+- Undefined data provider quality flags or adjustment techniques
+- Undefined units
+
 
 ## Taylor's Dashboard
 - Data Analysis Tools
@@ -11,6 +17,7 @@
 
 
 ## CARB Dashboard Items for Full Solution
+- Info from error log
 - Data Stream Monitoring
 - Data Processing Monitoring e.g., processing log summaries, others(?) 
 - Activity Feed
