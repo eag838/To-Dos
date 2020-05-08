@@ -1,4 +1,4 @@
-Note: We do not have permission to create/update/delete in production database (must go through Dewayne D/Mike E)
+Note: We do not have permission to create/update/delete in production database (must go through <s>Dewayne D</s>/Mike E)
 
 ## Uncategorized
 - Implement a routine or something to remove migrated data from staging
