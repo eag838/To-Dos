@@ -1,6 +1,7 @@
 Note: We do not have permission to create/update/delete in production database (must go through Dewayne D/Mike E)
 
 ## Uncategorized
+- Implement a routine or something to remove migrated data from staging
 - SCAQMD monitors 88 & 103 have metadata in database, but no associated measurement data
 - SiteIDs 24 & 25 have the same lat/long and site name but different external siteIDs
 - Develop data dictionary (ISP2B) 
