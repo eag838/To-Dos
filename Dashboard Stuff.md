@@ -5,6 +5,7 @@
 - Undefined data provider quality flags or adjustment techniques
 - Undefined units
 - View on Modlog
+- Show unprocessed data (QC)?
 
 
 ## Taylor's Dashboard
