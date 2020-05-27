@@ -7,6 +7,9 @@
 - View on Modlog
 - Show unprocessed data (QC)?
 
+## Admin Dashboard
+- Ability to manually override QC flags (e.g., during fires)
+
 
 ## Taylor's Dashboard
 - Data Analysis Tools
