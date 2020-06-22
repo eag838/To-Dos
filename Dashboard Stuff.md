@@ -32,7 +32,7 @@
   - Data Provider Setup
   - Metadata
 - If values are updated (e.g., new AObs submitted)
-- Data stuck in staging table (notified when it gets stuck, notification when its sat for x amount of time and gets moved to archive)
+- Data stuck in staging table (notified when it gets stuck, notification when its sat for x amount of time and gets moved to archive; displayed on dashboard grouped by stream and error code)
 
 
 ## DP Dashboard Items for Full Solution
