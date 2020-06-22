@@ -35,6 +35,8 @@
 
 - If values are updated (e.g., new AObs submitted)
 
+- Data stuck in staging table (notified when it gets stuck, notification when its sat for x amount of time and gets moved to archive/deleted)
+
 
 ## DP Dashboard Items for Full Solution
 - Data Quality Tools
