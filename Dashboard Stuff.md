@@ -28,13 +28,10 @@
 - Activity Feed
   - Data provider started sending data via a new method (e.g., "SC added API submission channel")
   - Data provider modified metadata & whether or not it needs approval by CARB (e.g., "SJV added 6 parameters, pending approval")
-  
 - Items Pending CARB Review/Approval
   - Data Provider Setup
   - Metadata
-
 - If values are updated (e.g., new AObs submitted)
-
 - Data stuck in staging table (notified when it gets stuck, notification when its sat for x amount of time and gets moved to archive)
 
 
