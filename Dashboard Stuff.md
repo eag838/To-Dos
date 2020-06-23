@@ -11,7 +11,7 @@
 - Ability to manually override QC flags (e.g., during fires)
 
 
-## Taylor's Dashboard
+## Analysis Dashboard
 - Data Analysis Tools
   - Timeseries Graphs
   - Wind & Pollution Roses
