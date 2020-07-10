@@ -6,6 +6,7 @@
 - Undefined units
 - View on Modlog
 - Show unprocessed data (QC)?
+- Analytics
 
 ## Admin Dashboard
 - Ability to manually override QC flags (e.g., during fires)
