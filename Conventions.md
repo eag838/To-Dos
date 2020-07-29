@@ -15,7 +15,7 @@
       <td class="tg-0pky">Clarity</td>
       <td class="tg-0pky"></td>
       <td class="tg-0pky">D: 2 min<br>F: 15 min</td>
-      <td class="tg-0pky">Powers off for 15 mins then samples for 2 mins<br><br>Does this apply to TVOC?</td>
+      <td class="tg-0pky">Powers off for 15 mins then samples for 2 mins<br>Does this apply to TVOC?</td>
     </tr>
     <tr>
       <td class="tg-0pky">Dylos (CCV)</td>
