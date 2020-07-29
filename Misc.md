@@ -1,5 +1,5 @@
 ## Uncategorized Stuff
-- 
+- Would be good to have a table or documentation on conventions with duration/frequency (e.g., Clarity)
  
 
 ## Short Term To-Dos
