@@ -12,16 +12,19 @@ Note: We do not have permission to create/update/delete in production database (
 
 
 ## Views
-- Update view used to create the download data so that external monitorIDs are published (right now internal monitorIDs are published in downloadable files)
+- Add dynamic QA/QC definitions (hard coded right now)
 
 
 ## Database Table Modifications
+- Add AQS and ADAM site code fields to site table(s)
 
 
 ## New Database Tables
-- Adjustment Technique 
-  - Internal Code/ID, External Code, Equation, Description, Public Description (Equation could be JSON or could be stored within the Description field)
+
 
 
 ## Completed
 - Implement a routine or something to remove migrated data from staging
+- Adjustment Technique 
+  - Internal Code/ID, External Code, Equation, Description, Public Description (Equation could be JSON or could be stored within the Description field)
+- Update view used to create the download data so that external monitorIDs are published (right now internal monitorIDs are published in downloadable files)
