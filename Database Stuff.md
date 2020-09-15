@@ -1,12 +1,11 @@
-Note: We do not have permission to create/update/delete in production database (must go through <s>Dewayne D</s>/Mike E)
+Note: We do not have permission to create/update/delete in production database (must go through <s>Dewayne D</s>/Mike E/Michael G(?))
 
 ## Uncategorized
-- Implement a routine or something to remove migrated data from staging
 - SCAQMD monitors 88 & 103 have metadata in database, but no associated measurement data
 - SiteIDs 24 & 25 have the same lat/long and site name but different external siteIDs
   - Delete Site 25 (mistake by SDAPCD)
 - Update metadata (UDL, LDL, UOM, etc.) in StreamSegment for SDAPCD StreamSegmentId=77
-- Develop data dictionary (ISP2B) 
+- Develop data dictionary (ISP2B?) 
 
 ## Stored Procedures
 - Calculate site start date from minimum monitor start date
@@ -24,4 +23,5 @@ Note: We do not have permission to create/update/delete in production database (
   - Internal Code/ID, External Code, Equation, Description, Public Description (Equation could be JSON or could be stored within the Description field)
 
 
-
+## Completed
+- Implement a routine or something to remove migrated data from staging
