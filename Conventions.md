@@ -1,4 +1,5 @@
 # Conventions for AQview Data Handling etc.
+Add your notes on any specific/special ways we handle things. 
 
 ## Duration/Frequency in database vs reality
   <table class="tg">
