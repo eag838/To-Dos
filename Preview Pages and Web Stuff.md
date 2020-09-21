@@ -4,3 +4,14 @@
 - Update map on AQview [About](https://aqview.arb.ca.gov/about.html) Page to [this](https://ww2.arb.ca.gov/sites/default/files/inline-images/AB%20617_community_map_2019.png) map
 - Add some kind of inventory like this (?): 
   </br><img src = "Images/inventory_sample_1.PNG" height = 350px />
+
+
+## New Page Ideas
+
+
+
+## Ideas for Additions to Existing Pages
+
+
+
+## Other Ideas
