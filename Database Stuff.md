@@ -1,11 +1,13 @@
 Note: We do not have permission to create/update/delete in production database (must go through <s>Dewayne D</s>/Mike E/Michael G(?))
 
-## Uncategorized
+
+## Uncategorized (needs updated)
 - SCAQMD monitors 88 & 103 have metadata in database, but no associated measurement data
 - SiteIDs 24 & 25 have the same lat/long and site name but different external siteIDs
   - Delete Site 25 (mistake by SDAPCD)
 - Update metadata (UDL, LDL, UOM, etc.) in StreamSegment for SDAPCD StreamSegmentId=77
 - Develop data dictionary (ISP2B?) 
+
 
 ## Stored Procedures
 - Calculate site start date from minimum monitor start date
@@ -20,7 +22,7 @@ Note: We do not have permission to create/update/delete in production database (
 
 
 ## New Database Tables
-
+- Add Parameter type to parameter table 
 
 
 ## Completed
