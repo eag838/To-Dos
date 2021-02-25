@@ -1,4 +1,4 @@
-Note: We do not have permission to create/update/delete in production database (must go through <s>Dewayne D</s>/Mike E/Michael G(?))
+Note: We do not have permission to create/update/delete in production database (must go through <s>Dewayne D</s>/Mike E/Michael G/Peter U/Satia A)
 
 
 ## Uncategorized (needs updated)
