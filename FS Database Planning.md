@@ -6,3 +6,4 @@
 
 ## New procedures/fixes
 - need way of dealing with Adjustments that aren't adjustments (e.g., SJV sending AObs as raw value and AObsAdj as truncated values/negatives to zero)
+- need to find a way to manage external quality flags (data provider flags)
