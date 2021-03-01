@@ -4,6 +4,7 @@
   - add data provider id to monitor table
 - have batchfilelog indicate how many subhourly/hourly/non-continuous/etc. records are successfully processed instead of how many records are successfully processed (non-specific)
 - have batchfilerecordlog indicate which type of data was in the record (if successfully processed)
+- have data tables indicate date/time that the record was added to the table ? (logging modifications mentioned above also sufficient)
 
 
 ## New procedures/fixes
