@@ -10,8 +10,9 @@ Add your notes on any specific/special ways we handle things.
 
 
 ## Data Provider Quality Flags vs AQview QC flags
-- If data provider sends quality flags, do not show AQview flags in download files and instead indicate "quality supplied by provider"
-- For now only showing data provider flags when they are "invalid" - 20210310
+- If data provider sends quality flags, do not show AQview flags in download files and instead indicate "quality supplied by provider" 
+- For now, only showing data provider flags when they are "invalid" - 20210310
+- For now, indicating "record invalidated by data provider"
 
 
 ## Duration/Frequency in database vs reality
