@@ -2,7 +2,7 @@
 Add your notes on any specific/special ways we handle things. 
 
 ## Uncategorized
-
+- 
 
 
 ## Pushing Patches
@@ -12,10 +12,12 @@ Add your notes on any specific/special ways we handle things.
 - Contact OIS (PU, SL) to push changes to Production
 
 ## Adding Measurement Data (at least weekly)
+- Only necessary on Production; don't need to do DEV/UAT (the databases aren't all the same size or same specs)
 - Run Clarity data pull script
 - Run usp_processMeasurementData procedure in database (if not automated), must be run after Clarity script to capture Clarity data
 
 ## Adding Metadata
+- Only necessary on Production; don't need to do DEV/UAT (the databases aren't all the same size or same specs)
 - When adding metadata, add to existing workbook, not a new one. This keeps our record current in case we need to readd all metadata from the workbook.
 - Migration Fail Diagnosis View:
   - AdjCodeIdFound? = 99999 if not needed
