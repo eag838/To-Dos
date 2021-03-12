@@ -3,6 +3,8 @@ Add your notes on any specific/special ways we handle things.
 
 ## Uncategorized
 - When adding metadata, add to existing workbook, not a new one. This keeps our record current in case we need to readd all metadata from the workbook.
+- QC script run weekly
+- Clarity data pull script run weekly
 
 ## Rounding & Truncation
 - For now, truncate at 4 decimal places (<= 4 decimal places) - 20210310
