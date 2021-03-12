@@ -2,9 +2,24 @@
 Add your notes on any specific/special ways we handle things. 
 
 ## Uncategorized
+
+
+
+## Pushing Patches
+- Troubleshoot getting metadata and measurement data into database in DEV
+- Create script to push changes to UAT
+- Troubleshoot script to push changes in UAT
+- Contact OIS (PU, SL) to push changes to Production
+
+## Adding Measurement Data (at least weekly)
+- Run Clarity data pull script
+- Run usp_processMeasurementData procedure in database (if not automated), must be run after Clarity script to capture Clarity data
+
+## Adding Metadata
 - When adding metadata, add to existing workbook, not a new one. This keeps our record current in case we need to readd all metadata from the workbook.
-- QC script run weekly
-- Clarity data pull script run weekly
+- Migration Fail Diagnosis View:
+  - AdjCodeIdFound? = 99999 if not needed
+  - AdjCodeIdFound? = NULL if found in measurement data but no metadata in database
 
 ## Rounding & Truncation
 - For now, truncate at 4 decimal places (<= 4 decimal places) - 20210310
