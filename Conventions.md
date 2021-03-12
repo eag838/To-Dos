@@ -11,7 +11,8 @@ Add your notes on any specific/special ways we handle things.
 - Troubleshoot script to push changes in UAT
 - Contact OIS (PU, SL) to push changes to Production
 
-## Adding Measurement Data (at least weekly)
+## Adding Measurement Data 
+- Do weekly at a minimum
 - Only necessary on Production; don't need to do DEV/UAT (the databases aren't all the same size or same specs)
 - Run Clarity data pull script
 - Run usp_processMeasurementData procedure in database (if not automated), must be run after Clarity script to capture Clarity data
