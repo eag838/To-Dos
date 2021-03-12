@@ -1,7 +1,8 @@
 # Conventions for AQview Data Handling etc.
-Add your notes on any specific/special ways we handle things. 
-This version applies to the Interim Solution.
+Add your notes on any specific/special ways we handle things. </br>
+This version applies to the Interim Solution.</br>
 Last Updated 3/12/2021
+</br>
 
 ## Uncategorized
 - 
