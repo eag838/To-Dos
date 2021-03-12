@@ -2,7 +2,7 @@
 Add your notes on any specific/special ways we handle things. 
 
 ## Uncategorized
-
+- When adding metadata, add to existing workbook, not a new one. This keeps our record current in case we need to readd all metadata from the workbook.
 
 ## Rounding & Truncation
 - For now, truncate at 4 decimal places (<= 4 decimal places) - 20210310
