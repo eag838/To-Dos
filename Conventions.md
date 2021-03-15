@@ -1,11 +1,11 @@
 # Conventions for AQview Data Handling etc.
 Add your notes on any specific/special ways we handle things. </br>
 This version applies to the Interim Solution.</br>
-Last Updated 3/12/2021
+Last Updated 3/15/2021
 </br>
 
 ## Uncategorized
-- 
+- Some database tables include "CreatedBy" and "UpdatedBy" - needs defined
 
 
 ## Pushing Patches
