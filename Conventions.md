@@ -14,11 +14,13 @@ Last Updated 3/15/2021
 - Troubleshoot script to push changes in UAT
 - Contact OIS (PU, SL) to push changes to Production
 
+
 ## Adding Measurement Data 
 - Do weekly at a minimum
 - Only necessary on Production; don't need to do DEV/UAT (the databases aren't all the same size or same specs)
 - Run Clarity data pull script
 - Run usp_processMeasurementData procedure in database (if not automated), must be run after Clarity script to capture Clarity data
+
 
 ## Adding Metadata
 - Only necessary on Production; don't need to do DEV/UAT (the databases aren't all the same size or same specs)
@@ -26,6 +28,7 @@ Last Updated 3/15/2021
 - Migration Fail Diagnosis View:
   - AdjCodeIdFound? = 99999 if not needed
   - AdjCodeIdFound? = NULL if found in measurement data but no metadata in database
+
 
 ## Rounding & Truncation
 - For now, truncate at 4 decimal places (<= 4 decimal places)
