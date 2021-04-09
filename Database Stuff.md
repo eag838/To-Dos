@@ -32,8 +32,8 @@ Note: We do not have permission to create/update/delete in production database (
 
 
 ## Logging
-- Conversion of invalid 999-like AObs values to NULL
-
+- Modification Log for Obs that change, unit conversions, etc.
+  - Conversion of invalid 999-like AObs values to NULL
 
 ## Completed
 - Implement a routine or something to remove migrated data from staging
