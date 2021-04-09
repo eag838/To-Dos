@@ -32,7 +32,7 @@ Note: We do not have permission to create/update/delete in production database (
 
 
 ## Logging
-- Conversion of 999-like AObs values to NULL
+- Conversion of invalid 999-like AObs values to NULL
 
 
 ## Completed
