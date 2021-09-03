@@ -5,6 +5,7 @@
 - REL
   - Roughly like the "yellow" AQI category (REAMAR notes from RB 20120508)
   - It is not likely to see health effects at or below the REL with normal individuals (OEHHA reps meeting 20200508)
+  - 8-hour REL is a misnomer; not based on time exposure but average breathing rate of workers, 8-hour REL will almost always be 2x chronic; convenience for HARP (OEHHA reps meeting recording 20200508)
 - Hazard index
   - Note: some communities could always have HI > 1 because background may stay above level of concern over sustained period of time (REAMAR notes from RB 20120508)
 - AEGL
@@ -22,9 +23,12 @@
   - On monthly basis, update the mean concentrations since monitoring started for comparison to chronic RELs
   - Calculate rolling monthly mean as new data come in for comparison with chronic REL 
 
-- Realtime BC:
-  - 
+- Black Carbon:
+  - Consider treating like PM2.5 since BC is a fraction of PM2.5; weight to toxicity levels (OEHHA health metrics and AQview meeting 20201210)
 
+
+- VOCs:
+  - Use a risk assessment approach? Think about some sort of trigger or threshold(?) (OEHHA health metrics and AQview meeting 20201210)
 
 
 
