@@ -2,7 +2,7 @@
 ## Health Messaging
 
 ### OEHHA health values:
-- REL
+- REL (Reference Exposure Level)
   - Roughly like the "yellow" AQI category (REAMAR notes from RB 20120508)
   - It is not likely to see health effects at or below the REL with normal individuals (OEHHA reps meeting 20200508)
   - 8-hour REL is a misnomer; not based on time exposure but average breathing rate of workers, 8-hour REL will almost always be 2x chronic; convenience for HARP (OEHHA reps meeting recording 20200508)
@@ -13,6 +13,7 @@
 - TEEL 
   - Dev by toxicologist at DOE thorough toxicology review – not all are based on AEGLs but some are; slightly more rigorous and updated more often than AEGL (REAMAR notes from RB 20120508)
   - Designed for very brief exposure; evacuation level (REAMAR notes from RB 20120508)
+- CSF (Cancer Slope Factor)
 
 
 
