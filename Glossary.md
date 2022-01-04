@@ -1,5 +1,16 @@
 
-### From SJV: <link>https://community.valleyair.org/media/3324/glossary-of-terms_12821.pdf</link>
+
+#
+
+### Glossary Terms etc. Brainstorm
+- Terms to define (remove if included in one of the definitions below):
+  - Heavy Metals
+  - Noncancer Risk
+- Include an acronym lookup (e.g., AB 617 = Assembly Bill (AB) 617)
+
+# 
+
+### Terms and Definitions Taken Directly from SJV: <link>https://community.valleyair.org/media/3324/glossary-of-terms_12821.pdf</link>
 - **AB 617** – Assembly Bill (AB) 617 (C. Garcia, Chapter 136, Statutes of 2017) directs the state and local air districts to identify communities in California that are exposed to high levels of air pollution and established the Community Air Protection Program. Air districts with input from residents and stakeholders are to develop community focused action plans and community air monitoring plans to address localized air pollution and reduce exposure to particulate matter and toxic air contaminants.
 - **Black Carbon** – Black carbon is the sooty black material emitted from gasoline and diesel engines, and other sources that burn fossil fuel. It comprises a significant portion of particulate matter. Inhalation of black carbon is associated with health problems including respiratory and cardiovascular disease, cancer, and birth defects.
 - **California Air Resources Board (CARB)** – The State of California agency responsible for air pollution control. Responsibilities include: establishing State ambient air quality standards, setting allowable emission levels for mobile sources of emissions and consumer products.
@@ -23,7 +34,9 @@
 - **Toxic Air Contaminants (TACs)** – TACs are air pollutants, identified by CARB, which may cause or contribute to an increase in deaths or in serious illness, or which may pose a present or potential health hazard. Health effects may occur at extremely low levels of TACs.
 - **Volatile Organic Compounds (VOCs)** - are a large group of carbon-based chemicals that easily become vapors or gases. They include both human-made and naturally occurring chemical compounds.
 
+# 
 
+# 
 
 
 
