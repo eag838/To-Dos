@@ -6,8 +6,8 @@
 The means shown in ARB's toxics pages are actually means of monthly means. Using the mean of monthly means compensates for the uneven distribution of samples over the 12 months of the year.  
 Means of monthly means are calculated by first determining the average of all measurements taken within a month at each site. Site means are then calculated by finding the average of the 12 monthly means for each site. Statewide means are calculated by first taking the average of all the monthly site means for each month within the state, and then calculating the average of those 12 monthly means.  
   
-1. Change measurements that are 0 or between 0.48 and 0.52 * LOD to -1 * LOD
-2. For each month, if obs is negative, use -0.5 * obs, else use obs (this effectively turns -LOD from step 1 above into 1/2 LOD)
+1. Change measurements that are 0 or between 0.48 and 0.52 * MDL to -1 * MDL
+2. For each month, if obs is negative, use -0.5 * obs, else use obs (this effectively turns -MDL from step 1 above into 1/2 MDL)
 3. The annual avg is straight avg of monthly means (mean of monthly means, MOMM)
   
   
@@ -17,7 +17,7 @@ The way values below the MDL get handled depend on the lab's specific protocols/
 - Set the value to 1/2MDL
 - Set the value to 0
   
-The 0.48-0.52 range in step 1 of calculating MOMM was included in the original toxics database to give some leeway for data type conversion errors if any data values submitted as 0.5 * LOD (because MS Access tends to tack on trailing 9s). We might be able to ignore that part when we calculate the monthly means.
+The 0.48-0.52 range in step 1 of calculating MOMM was included in the original toxics database to give some leeway for data type conversion errors if any data values submitted as 0.5 * MDL (because MS Access tends to tack on trailing 9s). We might be able to ignore that part when we calculate the monthly means.
   
   
   
