@@ -3,10 +3,13 @@
 ### Acronyms & Abbreviations
 - AB 617
 - APCD
+- AQI
 - AQMD
 - BC
 - BTEX
 - CARB
+- CBO
+- CDT
 - CO
 - CO2
 - DPM
