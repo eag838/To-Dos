@@ -97,7 +97,7 @@ The community air quality data can be used to:
 
 ### 9. How should I treat zero or negative values for my analysis?
 
-- In AQview, we use the inclusive range to consider whether the data pass QC checks. For example, if the specific detection limits of an instrument are 0 ug/m<sup3</sup> for a lower detection limit (LDL) and 500 ug/m<sup>3</sup> for an upper detection limit (UDL), then observations within the range [0, 500] would pass the QC checks (i.e., the endpoints are considered valid).
+- In AQview, we use the inclusive range to consider whether the data pass QC checks. For example, if the specific detection limits of an instrument are 0 µg/m<sup>3</sup> for a lower detection limit (LDL) and 500 ug/m<sup>3</sup> for an upper detection limit (UDL), then observations within the range [0, 500] would pass the QC checks (i.e., the endpoints are considered valid).
 - Not all data have an LDL of 0. For example, the accepted LDL for PM<sub>2.5</sub> for many Federal Equivalent Methods (FEM) monitors (often used for regulatory monitoring) is -15 ug/m<sup>3</sup> and the reasoning can be explored in this *[link](https://www.epa.gov/sites/default/files/2016-10/documents/pm2.5_continuous_monitoring.pdf)*. Therefore, the data user will need to decide how to handle the zero and negative values. If the values are still considered within the acceptable range based on the QC results, we recommend that they should be included.
 
 
@@ -113,6 +113,6 @@ The community air quality data can be used to:
   - Use LCS data to derive air quality information such as long-term trends and correlate that with similar information derived from FEM monitors in the same area.
 - A data completeness check should be performed when aggregating sub-hourly sampled observations to an hourly time base. Typically, at least 75% of the expected samples (based on the monitor reporting frequency) should be present for representing a valid hourly average.
 
-_ **Please send questions or comments to:** _ _[**AQview@arb.ca.gov**](mailto:AQview@arb.ca.gov)_
+<b><i>Please send questions or comments to: [AQview@arb.ca.gov](mailto:AQview@arb.ca.gov)</i></b>
 
-CARB/AQview 3 December 2022
+
