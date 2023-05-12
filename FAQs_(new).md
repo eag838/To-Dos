@@ -97,19 +97,19 @@ The community air quality data can be used to:
 
 ### 9. How should I treat zero or negative values for my analysis?
 
-- In AQview, we use the inclusive range to consider whether the data pass QC checks. For example, if the specific detection limits of an instrument are 0 ug/m3 for a lower detection limit (LDL) and 500 ug/m3 for an upper detection limit (UDL), then observations within the range [0, 500] would pass the QC checks (i.e., the endpoints are considered valid).
-- Not all data have an LDL of 0. For example, the accepted LDL for PM2.5 for many Federal Equivalent Methods (FEM) monitors (often used for regulatory monitoring) is -15 ug/m3 and the reasoning can be explored in this _[link](https://www.epa.gov/sites/default/files/2016-10/documents/pm2.5_continuous_monitoring.pdf)_. Therefore, the data user will need to decide how to handle the zero and negative values. If the values are still considered within the acceptable range based on the QC results, we recommend that they should be included.
+- In AQview, we use the inclusive range to consider whether the data pass QC checks. For example, if the specific detection limits of an instrument are 0 ug/m<sup3</sup> for a lower detection limit (LDL) and 500 ug/m<sup>3</sup> for an upper detection limit (UDL), then observations within the range [0, 500] would pass the QC checks (i.e., the endpoints are considered valid).
+- Not all data have an LDL of 0. For example, the accepted LDL for PM<sub>2.5</sub> for many Federal Equivalent Methods (FEM) monitors (often used for regulatory monitoring) is -15 ug/m<sup>3</sup> and the reasoning can be explored in this *[link](https://www.epa.gov/sites/default/files/2016-10/documents/pm2.5_continuous_monitoring.pdf)*. Therefore, the data user will need to decide how to handle the zero and negative values. If the values are still considered within the acceptable range based on the QC results, we recommend that they should be included.
 
-1.
-### Can I combine the hourly data with aggregated sub-hourly data for PM2.5?
 
-- Hourly PM2.5 data are generally reported from FEM continuous monitors, whereas sub-hourly PM2.5 data are reported from low-cost sensors (LCS), meaning the data are not necessarily the same and considerations should be made.
+### 10. Can I combine the hourly data with aggregated sub-hourly data for PM2.5?
+
+- Hourly PM<sub>2.5</sub> data are generally reported from FEM continuous monitors, whereas sub-hourly PM<sub>2.5</sub> data are reported from low-cost sensors (LCS), meaning the data are not necessarily the same and considerations should be made.
 - From an analysis perspective, one needs to keep in mind several important factors before considering mixing hourly data with aggregated sub-hourly data:
   - The sampling rates and durations are considerably different between LCS monitors and FEM monitors.
   - The methodologies are quite different, where LCS monitors employ an optical particle counter and FEM monitors use either beta attenuation or a Tapered Element Oscillating Microbalance (TEOM) monitor.
   - Site quality assurance (QA) procedures likely vary considerably between LCS networks and networks consisting only of FEM monitors.
-- We suggest aggregated LCS data with FEM data can be combined for the following use cases, with the above-mentioned caveats in mind. The key to properly using LCS network data is to know as much as possible about the sensors and the network.
-  - Use LCS data to fill the spatial gaps due to the sparse coverage of the FEM data, if the LCS network has certain sensors collocated with FEM monitors and the _[proper adjustments](https://www.epa.gov/research-states/airnow-fire-and-smoke-map-extension-us-wide-correction-purpleair-pm25-sensors)_ have been applied to all the sensor data.
+- We suggest aggregated LCS data and FEM data can be combined for the following use cases, with the above-mentioned caveats in mind. The key to properly using LCS network data is to know as much as possible about the sensors and the network.
+  - Use LCS data to fill the spatial gaps due to the sparse coverage of the FEM data, if the LCS network has certain sensors collocated with FEM monitors and the *[proper adjustments](https://www.epa.gov/research-states/airnow-fire-and-smoke-map-extension-us-wide-correction-purpleair-pm25-sensors)* have been applied to all the sensor data.
   - Use LCS data to derive air quality information such as long-term trends and correlate that with similar information derived from FEM monitors in the same area.
 - A data completeness check should be performed when aggregating sub-hourly sampled observations to an hourly time base. Typically, at least 75% of the expected samples (based on the monitor reporting frequency) should be present for representing a valid hourly average.
 
