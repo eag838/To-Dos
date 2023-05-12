@@ -1,13 +1,13 @@
 
 
-# Frequently Asked Questions (FAQs)
+# <h1 style = "color: #1F8BBF"> Frequently Asked Questions (FAQs) </h1>
 
 _Last updated: December 13, 2022_
 
 </br>
 
 
-# *About AQview*
+## <h2 style = "color: #1F8BBF"> *About AQview* </h2>
 
 
 Signed into law in July 2017, the California Assembly Bill (AB) 617 requires new community-focused and community-driven action to reduce air pollution and improve public health in communities that experience disproportionate burdens from exposure to air pollutants. AB 617 requires the California Air Resources Board (CARB) to publish the community air quality data on its internet web site. To fulfill the mandate by AB 617, CARB has developed the <b>Community <u>A</u>ir <u>Q</u>uality <u>View</u>er</b> ([**AQview**](https://aqview.arb.ca.gov/)), an innovative cloud-based data management system for collecting and providing access to community air monitoring data. This FAQs document aims to provide answers to the questions about AQview and community air quality data in California, and it will be updated frequently.
@@ -15,16 +15,16 @@ Signed into law in July 2017, the California Assembly Bill (AB) 617 requires new
 </br>
 
 
-# *Part I: AQview in General*
+## <h2 style = "color: #36A393"> *Part I: AQview in General* </h2>
 
 
-### 1. What is AQview?
+### <h3 style = "color: #0F5A7C"> 1. What is AQview? </h3>
 
 - AQview is a statewide repository for community air quality data including but not limited to those collected by the air districts, community organizations under *[Community Air Grants](https://ww2.arb.ca.gov/capp-cag)*, and other independent community monitoring efforts. The primary goal of AQview is to make community data easier to share, access, and interpret through transparency of how data are collected and processed.
 - In the future, AQview will also include air quality data from regulatory monitoring network, research projects, as well as special studies.
 
 
-### 2. What are the major features of AQview?
+### <h3 style = "color: #0F5A7C"> 2. What are the major features of AQview? </h3>
 
 - AQview provides a cloud-based database that is scalable and sustainable for many different pollutants measured on multiple timescales, from a wide variety of different data providers.
 - Community air quality data and reports available in the AQview database can be downloaded from the AQview website via *[ACCESS DATA](https://aqview.arb.ca.gov/)* drop-down menu in the top right-hand corner.
@@ -33,7 +33,7 @@ Signed into law in July 2017, the California Assembly Bill (AB) 617 requires new
 - AQview user interfaces are mobile-friendly, and the users can easily access the data download tool and map features via mobile devices.
 
 
-### 3. What data are included in AQview?
+### <h3 style = "color: #0F5A7C"> 3. What data are included in AQview? </h3>
 
 - Currently, AQview includes continuous (hourly and sub-hourly) monitoring data from fifteen AB 617 communities, one tribal community, and several other communities, as provided by the air districts, community organizations, and air grantees. More details on the data providers can be found in the *[Pollutant Matrix Table](https://aqview.arb.ca.gov/static/media/Pollutants_in_AQview.594f0345d251da8a470a.pdf)*.
 - Continuously measured pollutants reported to AQview include PM<sub>2.5</sub>, PM<sub>10</sub>, O<sub>3</sub>, NO<sub>2</sub>, nitric oxide (NO), carbon monoxide (CO), sulfur dioxide (SO<sub>2</sub>), black carbon (BC), hydrogen sulfide (H<sub>2</sub>S), total volatile organic compounds (VOCs), and benzene, toluene, ethylbenzene, and xylene (BTEX). Measured pollutants vary by community. Some monitoring data are collected and reported in one-hour time increments, whereas some data are collected and reported in time increments of less than one hour. These data can be downloaded from *[ACCESS DATA/CONTINUOUS MONITORING](https://aqview.arb.ca.gov/continuous-monitoring-data).*
@@ -41,7 +41,7 @@ Signed into law in July 2017, the California Assembly Bill (AB) 617 requires new
 - Detailed information on the data in AQview is summarized in the *[Pollutant Matrix Table](https://aqview.arb.ca.gov/static/media/Pollutants_in_AQview.594f0345d251da8a470a.pdf)*. The table will be updated periodically as data from more networks and data providers are added.
 
 
-### 4. How can I download data from AQview?
+### <h3 style = "color: #0F5A7C"> 4. How can I download data from AQview? </h3>
 
 &nbsp;&nbsp; There are two webpages on AQview for data download:
 
@@ -49,7 +49,7 @@ Signed into law in July 2017, the California Assembly Bill (AB) 617 requires new
 - *[ACCESS DATA/ADDITIONAL MONITORING & REPORTS](https://aqview.arb.ca.gov/additional-monitoring-data)* for air quality data, reports, and other data products primarily from selected AB 617 communities and other recent community monitoring efforts. These data do not conform to the AQview continuous data format (e.g., lab-analyzed data, mobile monitoring data, etc.), and are therefore not available from the Continuous Monitoring Download Tool.
 
 
-### 5. How do I use the AQview map and graphing tools?
+### <h3 style = "color: #0F5A7C"> 5. How do I use the AQview map and graphing tools? </h3>
 
 &nbsp;&nbsp; *[AQview map and graphing tools](https://aqview.arb.ca.gov/map)* currently show PM<sub>2.5</sub> *[Nowcast AQI](https://usepa.servicenowservices.com/airnow?id=kb_article_view&sys_id=bb8b65ef1b06bc10028420eae54bcb98&spa=1)* values from community monitoring efforts underway throughout the State and also provide a time series graph of PM<sub>2.5</sub> AQI for selected sites (up to 4).
 
@@ -63,7 +63,7 @@ Signed into law in July 2017, the California Assembly Bill (AB) 617 requires new
   - The AB 617 Communities map provides detailed information for the selected AB 617 communities throughout the State, including a brief description of each community, pollutants monitored in the community, and links to more information.
 
 
-### 6. Does AQview have multilingual support?
+### <h3 style = "color: #0F5A7C"> 6. Does AQview have multilingual support? </h3>
 
 - Multilingual support is not available for the webpages yet but will be added for certain system features over time.
 - Some documentation (e.g., PDFs, PowerPoints, etc.) may be available in Spanish and other languages before multilingual support is provided for the entire system.
@@ -71,10 +71,10 @@ Signed into law in July 2017, the California Assembly Bill (AB) 617 requires new
 </br>
 
 
-# *Part II: Community Air Quality Data*
+## <h2 style = "color: #36A393"> *Part II: Community Air Quality Data* </h2>
 
 
-### 7. What can I do with the community air quality data?
+### <h3 style = "color: #0F5A7C"> 7. What can I do with the community air quality data? </h3>
 
 The community air quality data can be used to:
 
@@ -86,7 +86,7 @@ The community air quality data can be used to:
 &nbsp;&nbsp; Please note that the types of data analysis that can be performed with the data are highly dependent on what type of, and how much, data are collected. Furthermore, although these data may be used to inform and support the regulatory process, they should only be used as a supplement and not a source for regulatory decisions (e.g., determining attainment).
 
 
-### 8. How does AQview ensure data quality?
+### <h3 style = "color: #0F5A7C"> 8. How does AQview ensure data quality? </h3>
 
 - Data quality depends highly on how monitors are sited, operated, and maintained (e.g. calibrations). CARB has developed the *[Statewide Air Monitoring Plan](https://ww2.arb.ca.gov/resources/documents/appendix-e-statewide-air-monitoring-plan)* to describe criteria for air districts and communities that are planning to conduct community air monitoring under the Community Air Protection Program. The data providers we work with for AQview are largely responsible for the quality of the data being produced.
 - The AQview team has developed innovative quality control (QC) checks that can be used to identify abnormal and questionable measurement values based on the expected performance of each specific monitor type. The quality checks help to identify data issues that may result from a few circumstances such as monitor malfunctions, sensor degradation, and measurement anomalies. Future development will build upon our existing quality checks to make them more robust and provide tools to notify data providers when there are data issues.
@@ -95,13 +95,13 @@ The community air quality data can be used to:
 - AQview's quality checks do not change the original data in any way, and no data are deleted or hidden in the process. All data are provided in downloadable files regardless of the result. The quality checks only provide extra information to data users. Data providers also can perform quality checks and send us verified data. AQview will not exclude any data based on instrument choice.
 
 
-### 9. How should I treat zero or negative values for my analysis?
+### <h3 style = "color: #0F5A7C"> 9. How should I treat zero or negative values for my analysis? </h3>
 
 - In AQview, we use the inclusive range to consider whether the data pass QC checks. For example, if the specific detection limits of an instrument are 0 µg/m<sup>3</sup> for a lower detection limit (LDL) and 500 µg/m<sup>3</sup> for an upper detection limit (UDL), then observations within the range [0, 500] would pass the QC checks (i.e., the endpoints are considered valid).
 - Not all data have an LDL of 0. For example, the accepted LDL for PM<sub>2.5</sub> for many Federal Equivalent Methods (FEM) monitors (often used for regulatory monitoring) is -15 µg/m<sup>3</sup> and the reasoning can be explored in this *[link](https://www.epa.gov/sites/default/files/2016-10/documents/pm2.5_continuous_monitoring.pdf)*. Therefore, the data user will need to decide how to handle the zero and negative values. If the values are still considered within the acceptable range based on the QC results, we recommend that they should be included.
 
 
-### 10. Can I combine the hourly data with aggregated sub-hourly data for PM2.5?
+### <h3 style = "color: #0F5A7C"> 10. Can I combine the hourly data with aggregated sub-hourly data for PM<sub>2.5?</sub> </h3>
 
 - Hourly PM<sub>2.5</sub> data are generally reported from FEM continuous monitors, whereas sub-hourly PM<sub>2.5</sub> data are reported from low-cost sensors (LCS), meaning the data are not necessarily the same and considerations should be made.
 - From an analysis perspective, one needs to keep in mind several important factors before considering mixing hourly data with aggregated sub-hourly data:
