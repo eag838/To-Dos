@@ -113,6 +113,7 @@ Signed into law in July 2017, the California Assembly Bill (AB) 617 requires new
   - Use LCS data to derive air quality information such as long-term trends and correlate that with similar information derived from FEM monitors in the same area.
 - A data completeness check should be performed when aggregating sub-hourly sampled observations to an hourly time base. Typically, at least 75% of the expected samples (based on the monitor reporting frequency) should be present for representing a valid hourly average.
 
+</br>
 <b><i>Please send questions or comments to: [AQview@arb.ca.gov](mailto:AQview@arb.ca.gov)</i></b>
 
 
