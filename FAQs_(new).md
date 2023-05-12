@@ -76,7 +76,7 @@ Signed into law in July 2017, the California Assembly Bill (AB) 617 requires new
 
 ### <h3 style = "color: #0F5A7C"> 7. What can I do with the community air quality data? </h3>
 
-The community air quality data can be used to:
+&nbsp;&nbsp; The community air quality data can be used to:
 
 - Inform community members of current air quality conditions,
 - Show both short-term and long-term trends of community air quality, including time-of-day and time-of-year variation and patterns,
