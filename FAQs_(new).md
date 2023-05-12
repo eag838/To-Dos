@@ -53,25 +53,28 @@ Signed into law in July 2017, the California Assembly Bill (AB) 617 requires new
 
 &nbsp;&nbsp; *[AQview map and graphing tools](https://aqview.arb.ca.gov/map)* currently show PM<sub>2.5</sub> *[Nowcast AQI](https://usepa.servicenowservices.com/airnow?id=kb_article_view&sys_id=bb8b65ef1b06bc10028420eae54bcb98&spa=1)* values from community monitoring efforts underway throughout the State and also provide a time series graph of PM<sub>2.5</sub> AQI for selected sites (up to 4).
 
-- AQview map shows AQI values as color-coded dots, where the different colors represent the current PM2.5 pollution levels. The color scheme mimics the U.S. EPA's AQI color scale, with green representing the best conditions and purple representing the worst conditions and adverse health impacts. The color key is shown on top of the map. AQI values on the map are updated every hour to provide the most recent information on air quality.
-- AQview map includes two ways to check the air quality history:
+- AQview's map shows AQI values as color-coded dots, where the different colors represent the current PM<sub>2.5</sub> pollution levels. The color scheme mimics the U.S. EPA's AQI color scale, with green representing the best conditions and purple representing the worst conditions and adverse health impacts. The color key is shown on top of the map. AQI values on the map are updated every hour to provide the most recent information on air quality.
+- AQview's map includes two ways to check the air quality history:
   - On the bottom left corner of the map, a time slider is included so that users can see how the map looked over the past 24 hours, and
   - If the user clicks a specific site on the map, a table with the latest 6 hours of AQI values appears in the "Monitor Summary" pane.
-- Additionally, AQview time series graph is available below the map and it allows the users to view the AQI data for up to four sites, for the past 24 hours or the past week. Data from a site is added to the graph when the site is clicked on the map. Hovering the cursor over the points in the graph will show the AQI values as well as the associated hourly concentration.
-- AQview map also provides layers for Active Fires and AB 617 Communities. The layers are automatically turned on when the map is loaded and can be turned off by setting the buttons on top of the map.
-  - The Active Fires map provides information about active prescribed fires or wildfires, including the type of fire, start date and most recent update date, acreage burned, and percentage of containment. This layer is obtained from _[Wildland and Fire Interagency Geospatial Service](https://data-nifc.opendata.arcgis.com/datasets/nifc::wfigs-current-wildland-fire-perimeters/about)_ (WFIGS).
+- Additionally, AQview's time series graph is available below the map and it allows users to view the AQI data for up to four sites, for the past 24 hours or the past week. Data from a site is added to the graph when the site is clicked on the map. Hovering the cursor over the points in the graph will show the AQI value as well as the associated hourly concentration.
+- AQview's map also provides layers for Active Fires and AB 617 Communities. The layers are automatically turned on when the map is loaded and can be turned off by setting the buttons on top of the map.
+  - The Active Fires layer provides information about active prescribed fires or wildfires, including the type of fire, start date and most recent update date, acreage burned, and percentage of containment. This layer is obtained from *[Wildland and Fire Interagency Geospatial Service](https://data-nifc.opendata.arcgis.com/datasets/nifc::wfigs-current-wildland-fire-perimeters/about)* (WFIGS).
   - The AB 617 Communities map provides detailed information for the selected AB 617 communities throughout the State, including a brief description of each community, pollutants monitored in the community, and links to more information.
 
-1.
-### Does AQview have multilingual support?
+
+### 6. Does AQview have multilingual support?
 
 - Multilingual support is not available for the webpages yet but will be added for certain system features over time.
-- Some documentation (e.g., PDFs, PowerPoints, etc.) may be available in Spanish and other languages before multilingual support is provided to the entire system.
+- Some documentation (e.g., PDFs, PowerPoints, etc.) may be available in Spanish and other languages before multilingual support is provided for the entire system.
 
-# Part II: Community Air Quality Data
+</br>
 
-1.
-### What can I do with the community air quality data?
+
+# *Part II: Community Air Quality Data*
+
+
+### 7. What can I do with the community air quality data?
 
 The community air quality data can be used to:
 
@@ -80,19 +83,19 @@ The community air quality data can be used to:
 - Identify areas with high pollution levels in the communities and potential sources impacting the air quality, and
 - Evaluate the effectiveness of community emission reduction strategies and inform potential future emission reduction measures.
 
-Please note that the types of data analysis that can be performed with the data are highly dependent on what type of, and how much, data are collected. Furthermore, although these data may be used to inform and support the regulatory process, they should only be used as a supplement and not a source for regulatory decisions (e.g., determining attainment).
+&nbsp;&nbsp; Please note that the types of data analysis that can be performed with the data are highly dependent on what type of, and how much, data are collected. Furthermore, although these data may be used to inform and support the regulatory process, they should only be used as a supplement and not a source for regulatory decisions (e.g., determining attainment).
 
-1.
-### How does AQview ensure data quality?
 
-- Data quality depends highly on how monitors are sited, operated, and maintained (e.g. calibrations). CARB has developed the _[Statewide Air Monitoring Plan](https://ww2.arb.ca.gov/resources/documents/appendix-e-statewide-air-monitoring-plan)_ to describe criteria for air districts and communities that are planning to conduct community air monitoring under the Community Air Protection Program. The data providers we work with for AQview are largely responsible for the quality of the data being produced.
+### 8. How does AQview ensure data quality?
+
+- Data quality depends highly on how monitors are sited, operated, and maintained (e.g. calibrations). CARB has developed the *[Statewide Air Monitoring Plan](https://ww2.arb.ca.gov/resources/documents/appendix-e-statewide-air-monitoring-plan)* to describe criteria for air districts and communities that are planning to conduct community air monitoring under the Community Air Protection Program. The data providers we work with for AQview are largely responsible for the quality of the data being produced.
 - The AQview team has developed innovative quality control (QC) checks that can be used to identify abnormal and questionable measurement values based on the expected performance of each specific monitor type. The quality checks help to identify data issues that may result from a few circumstances such as monitor malfunctions, sensor degradation, and measurement anomalies. Future development will build upon our existing quality checks to make them more robust and provide tools to notify data providers when there are data issues.
-- The AQview system currently conducts preliminary QC checks on all the ingested data, including upper and lower limits checks, a repeating value check, and a spike value check (more details can be found on Pages 8 – 10 in the AQview _[Data Download Explainer](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Faqview.arb.ca.gov%2Fstatic%2Fmedia%2FDataDownloadExplainer.e50051faae0a4b70ba63.pdf&data=05%7C01%7CYanju.Chen%40arb.ca.gov%7C9198e9b18426405154e708da4f2cf44f%7C9de5aaee778840b1a438c0ccc98c87cc%7C0%7C0%7C637909351744813209%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=aS%2BlD6fNGvCdiSgZMt3CZFZzcVQcR1AElRCv0u8h16c%3D&reserved=0)_). Current quality checks are simple checks meant to flag only the most apparent issues. We will add more complex quality checks in the future that consider a broader scope based on the data's behavior over time.
+- The AQview system currently conducts preliminary QC checks on all the ingested data, including upper and lower limits checks, a repeating value check, and a spike value check (more details can be found on Pages 8 – 10 in the AQview *[Data Download Explainer](https://aqview.arb.ca.gov/resources/files/DataDownloadExplainer.pdf)*). Current quality checks are simple checks meant to flag only the most apparent issues. We will add more complex quality checks in the future that consider a broader scope based on the data's behavior over time.
 - The goal of the current quality checks is only to identify air quality measurements that are highly questionable and likely do not represent reality. The quality check is not intended to definitively identify all data issues, but rather to help give some context alongside the data for users to consider.
 - AQview's quality checks do not change the original data in any way, and no data are deleted or hidden in the process. All data are provided in downloadable files regardless of the result. The quality checks only provide extra information to data users. Data providers also can perform quality checks and send us verified data. AQview will not exclude any data based on instrument choice.
 
-1.
-### How should I treat zero or negative values for my analysis?
+
+### 9. How should I treat zero or negative values for my analysis?
 
 - In AQview, we use the inclusive range to consider whether the data pass QC checks. For example, if the specific detection limits of an instrument are 0 ug/m3 for a lower detection limit (LDL) and 500 ug/m3 for an upper detection limit (UDL), then observations within the range [0, 500] would pass the QC checks (i.e., the endpoints are considered valid).
 - Not all data have an LDL of 0. For example, the accepted LDL for PM2.5 for many Federal Equivalent Methods (FEM) monitors (often used for regulatory monitoring) is -15 ug/m3 and the reasoning can be explored in this _[link](https://www.epa.gov/sites/default/files/2016-10/documents/pm2.5_continuous_monitoring.pdf)_. Therefore, the data user will need to decide how to handle the zero and negative values. If the values are still considered within the acceptable range based on the QC results, we recommend that they should be included.
