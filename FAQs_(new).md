@@ -33,25 +33,25 @@ Signed into law in July 2017, the California Assembly Bill (AB) 617 requires new
 - AQview user interfaces are mobile-friendly, and the users can easily access the data download tool and map features via mobile devices.
 
 
-### What data are included in AQview?
+### 3. What data are included in AQview?
 
-- Currently, AQview includes continuous (hourly and sub-hourly) monitoring data from fifteen AB 617 communities, one tribal community, and several other communities, as provided by the air districts, community organizations, and air grantees. More details on the data providers can be found in the _[Pollutant Matrix Table](https://aqview.arb.ca.gov/static/media/Pollutants_in_AQview.594f0345d251da8a470a.pdf)_.
-- Continuously measured pollutants reported to AQview include PM2.5, PM10, O3, NO2, nitric oxide (NO), carbon monoxide (CO), sulfur dioxide (SO2), black carbon (BC), hydrogen sulfide (H2S), total volatile organic compounds (VOCs), and benzene, toluene, ethylbenzene, and xylene (BTEX). Measured pollutants vary by community. Some monitoring data are collected and reported in one-hour time increments, whereas some data are collected and reported in time increments of less than one hour. These data can be downloaded from _[ACCESS DATA/CONTINUOUS MONITORING](https://aqview.arb.ca.gov/continuous-monitoring-data)._
-- AQview also includes time-integrated monitoring data (e.g., speciation of VOCs collected in canisters, and particles collected on filters) from some communities, and they can be downloaded from _[ACCESS DATA/ADDITIONAL MONITORING & REPORTS](https://aqview.arb.ca.gov/additional-monitoring-data)._
-- Detailed information on the data in AQview is summarized in the _[Pollutant Matrix Table](https://aqview.arb.ca.gov/static/media/Pollutants_in_AQview.594f0345d251da8a470a.pdf)_. The table will be updated periodically as data from more networks and data providers are added.
+- Currently, AQview includes continuous (hourly and sub-hourly) monitoring data from fifteen AB 617 communities, one tribal community, and several other communities, as provided by the air districts, community organizations, and air grantees. More details on the data providers can be found in the *[Pollutant Matrix Table](https://aqview.arb.ca.gov/static/media/Pollutants_in_AQview.594f0345d251da8a470a.pdf)*.
+- Continuously measured pollutants reported to AQview include PM<sub>2.5</sub>, PM<sub>10</sub>, O<sub>3</sub>, NO<sub>2</sub>, nitric oxide (NO), carbon monoxide (CO), sulfur dioxide (SO<sub>2</sub>), black carbon (BC), hydrogen sulfide (H<sub>2</sub>S), total volatile organic compounds (VOCs), and benzene, toluene, ethylbenzene, and xylene (BTEX). Measured pollutants vary by community. Some monitoring data are collected and reported in one-hour time increments, whereas some data are collected and reported in time increments of less than one hour. These data can be downloaded from *[ACCESS DATA/CONTINUOUS MONITORING](https://aqview.arb.ca.gov/continuous-monitoring-data).*
+- AQview also includes time-integrated monitoring data (e.g., speciation of VOCs collected in canisters, and particles collected on filters) from some communities, and they can be downloaded from *[ACCESS DATA/ADDITIONAL MONITORING & REPORTS](https://aqview.arb.ca.gov/additional-monitoring-data).*
+- Detailed information on the data in AQview is summarized in the *[Pollutant Matrix Table](https://aqview.arb.ca.gov/static/media/Pollutants_in_AQview.594f0345d251da8a470a.pdf)*. The table will be updated periodically as data from more networks and data providers are added.
 
-1.
-### How can I download data from AQview?
 
-There are two webpages on AQview for data download:
+### 4. How can I download data from AQview?
 
-- _[ACCESS DATA/CONTINUOUS MONITORING](https://aqview.arb.ca.gov/continuous-monitoring-data)_ for air quality data from monitors that are continuously streaming to AQview and are updated on an hourly basis. Data available here are primarily from AB 617 community air quality monitoring sites. As AQview continues to expand, monitoring data from a larger variety of sources will be added to this download tool. More information can be found in the _[Data Download Explainer](https://aqview.arb.ca.gov/static/media/DataDownloadExplainer.ffec2a36545248476cd5.pdf)_.
-- _[ACCESS DATA/ADDITIONAL MONITORING & REPORTS](https://aqview.arb.ca.gov/additional-monitoring-data)_ for air quality data, reports, and other data products primarily from selected AB 617 communities and other recent community monitoring efforts. These data do not conform to the AQview continuous data format (e.g., lab-analyzed data, mobile monitoring data, etc.), and are therefore not available from the Continuous Monitoring Download Tool.
+&nbsp;&nbsp; There are two webpages on AQview for data download:
 
-1.
-### How do I use AQview map and graphing tools?
+- *[ACCESS DATA/CONTINUOUS MONITORING](https://aqview.arb.ca.gov/continuous-monitoring-data)* for air quality data from monitors that are continuously streaming to AQview and are updated on an hourly basis. Data available here are primarily from AB 617 community air quality monitoring sites. As AQview continues to expand, monitoring data from a larger variety of sources will be added to this download tool. More information can be found in the *[Data Download Explainer](https://aqview.arb.ca.gov/static/media/DataDownloadExplainer.ffec2a36545248476cd5.pdf)*.
+- *[ACCESS DATA/ADDITIONAL MONITORING & REPORTS](https://aqview.arb.ca.gov/additional-monitoring-data)* for air quality data, reports, and other data products primarily from selected AB 617 communities and other recent community monitoring efforts. These data do not conform to the AQview continuous data format (e.g., lab-analyzed data, mobile monitoring data, etc.), and are therefore not available from the Continuous Monitoring Download Tool.
 
-_[AQview map and graphing tools](https://aqview.arb.ca.gov/map)_ currently show PM2.5_[Nowcast AQI](https://usepa.servicenowservices.com/airnow?id=kb_article_view&sys_id=bb8b65ef1b06bc10028420eae54bcb98&spa=1)_ values from community monitoring efforts underway throughout the State and also provide a time series graph of PM2.5 AQI for selected sites (up to 4).
+
+### 5. How do I use the AQview map and graphing tools?
+
+&nbsp;&nbsp; *[AQview map and graphing tools](https://aqview.arb.ca.gov/map)* currently show PM<sub>2.5</sub> *[Nowcast AQI](https://usepa.servicenowservices.com/airnow?id=kb_article_view&sys_id=bb8b65ef1b06bc10028420eae54bcb98&spa=1)* values from community monitoring efforts underway throughout the State and also provide a time series graph of PM<sub>2.5</sub> AQI for selected sites (up to 4).
 
 - AQview map shows AQI values as color-coded dots, where the different colors represent the current PM2.5 pollution levels. The color scheme mimics the U.S. EPA's AQI color scale, with green representing the best conditions and purple representing the worst conditions and adverse health impacts. The color key is shown on top of the map. AQI values on the map are updated every hour to provide the most recent information on air quality.
 - AQview map includes two ways to check the air quality history:
