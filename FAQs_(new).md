@@ -27,9 +27,9 @@ Signed into law in July 2017, the California Assembly Bill (AB) 617 requires new
 ### 2. What are the major features of AQview?
 
 - AQview provides a cloud-based database that is scalable and sustainable for many different pollutants measured on multiple timescales, from a wide variety of different data providers.
-- Community air quality data and reports available in the AQview database can be downloaded from the AQview website via _[ACCESS DATA](https://aqview.arb.ca.gov/)_ drop-down menu in the top right-hand corner.
+- Community air quality data and reports available in the AQview database can be downloaded from the AQview website via *[ACCESS DATA](https://aqview.arb.ca.gov/)* drop-down menu in the top right-hand corner.
 - AQview provides assessments of data quality through robust quality control checks to identify and flag any data records that appear questionable or invalid.
-- AQview includes an hourly map for PM2.5_[Air Quality Index (AQI)](https://www.airnow.gov/aqi/)_, and time series plots of PM2.5 AQI for up to four sites at a time, and they can be accessed via _[MAP](https://aqview.arb.ca.gov/map)_ on the AQview website. Other pollutants, such as PM10, ground-level ozone (O3), nitrogen dioxide (NO2), and many others will be included in the visualization tool once the appropriate display methods are established.
+- AQview includes an hourly map for PM<sub>2.5</sub> *[Air Quality Index (AQI)](https://www.airnow.gov/aqi/)*, and time series plots of PM<sub>2.5</sub> AQI for up to four sites at a time, and they can be accessed via *[MAP](https://aqview.arb.ca.gov/map)* on the AQview website. Other pollutants, such as PM<sub>10</sub>, ground-level ozone (O<sub>3</sub>), nitrogen dioxide (NO<sub>2</sub>), and many others will be included in the visualization tool once the appropriate display methods are established.
 - AQview user interfaces are mobile-friendly, and the users can easily access the data download tool and map features via mobile devices.
 
 
