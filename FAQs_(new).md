@@ -1,4 +1,4 @@
-![](RackMultipart20230512-1-l8v57l_html_34a4cd5cb049bbf4.png)
+
 
 # Frequently Asked Questions (FAQs)
 
@@ -97,8 +97,8 @@ The community air quality data can be used to:
 
 ### 9. How should I treat zero or negative values for my analysis?
 
-- In AQview, we use the inclusive range to consider whether the data pass QC checks. For example, if the specific detection limits of an instrument are 0 µg/m<sup>3</sup> for a lower detection limit (LDL) and 500 ug/m<sup>3</sup> for an upper detection limit (UDL), then observations within the range [0, 500] would pass the QC checks (i.e., the endpoints are considered valid).
-- Not all data have an LDL of 0. For example, the accepted LDL for PM<sub>2.5</sub> for many Federal Equivalent Methods (FEM) monitors (often used for regulatory monitoring) is -15 ug/m<sup>3</sup> and the reasoning can be explored in this *[link](https://www.epa.gov/sites/default/files/2016-10/documents/pm2.5_continuous_monitoring.pdf)*. Therefore, the data user will need to decide how to handle the zero and negative values. If the values are still considered within the acceptable range based on the QC results, we recommend that they should be included.
+- In AQview, we use the inclusive range to consider whether the data pass QC checks. For example, if the specific detection limits of an instrument are 0 µg/m<sup>3</sup> for a lower detection limit (LDL) and 500 µg/m<sup>3</sup> for an upper detection limit (UDL), then observations within the range [0, 500] would pass the QC checks (i.e., the endpoints are considered valid).
+- Not all data have an LDL of 0. For example, the accepted LDL for PM<sub>2.5</sub> for many Federal Equivalent Methods (FEM) monitors (often used for regulatory monitoring) is -15 µg/m<sup>3</sup> and the reasoning can be explored in this *[link](https://www.epa.gov/sites/default/files/2016-10/documents/pm2.5_continuous_monitoring.pdf)*. Therefore, the data user will need to decide how to handle the zero and negative values. If the values are still considered within the acceptable range based on the QC results, we recommend that they should be included.
 
 
 ### 10. Can I combine the hourly data with aggregated sub-hourly data for PM2.5?
